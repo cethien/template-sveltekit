@@ -3,6 +3,7 @@
 		"svelte.svelte-vscode",
 		"ardenivanov.svelte-intellisense",
 		"bradlc.vscode-tailwindcss",
-		"antfu.iconify"
+		"antfu.iconify",
+		"ms-azuretools.vscode-docker"
 	]
 }
